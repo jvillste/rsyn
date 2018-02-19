@@ -1,0 +1,10 @@
+[package]
+name = "rsyn"
+version = "0.1.0"
+authors = ["Jukka Villstedt <jukka.villstedt@iki.fi>"]
+
+[dependencies]
+
+[lib]
+name = "rsyn"
+crate-type = ["dylib"]
